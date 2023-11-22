@@ -19,3 +19,16 @@
 ```
 telnet 10.10.10.3 23
 ```
+
+**4 : The lack of what, means that all Telnet communication is in plaintext?**
+
+```
+encryption
+```
+
+**5 : What is Telnet?**
+
+```
+Application protocol 
+```
+
