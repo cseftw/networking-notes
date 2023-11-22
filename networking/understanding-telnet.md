@@ -32,3 +32,8 @@ encryption
 Application protocol 
 ```
 
+**6 : What's the standard Telnet port ?**
+
+```
+23
+```
