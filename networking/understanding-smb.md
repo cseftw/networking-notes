@@ -36,7 +36,7 @@ smbclient //[IP]/[SHARE]
 smbclient //10.10.10.2/secret -U suit -p 445
 ```
 
-**What's the standard SMB port ?**
+:point\_right: **What's the standard SMB port ?**
 
 ```
 139 and 445
