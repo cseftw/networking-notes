@@ -8,3 +8,4 @@
 * [A primer on Subnetting](a-primer-on-subnetting.md)
 * [The ARP Protocol](the-arp-protocol.md)
 * [The DHCP Protocol](the-dhcp-protocol.md)
+* [OSI Model](osi-model.md)
